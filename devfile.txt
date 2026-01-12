@@ -1,3 +1,4 @@
 hello devcolibri my change
 hello first change
 hello rebase
+check merge-rebase
